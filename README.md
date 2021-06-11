@@ -1,3 +1,3 @@
 # NestedReciclerView
 
-Example for a simpel Nested Recicler View
+Example for a simple Nested Recicler View
