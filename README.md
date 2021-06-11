@@ -1,3 +1,3 @@
-# NestedReciclerView
+# Android NestedReciclerView
 
 Example for a simple Nested Recicler View
