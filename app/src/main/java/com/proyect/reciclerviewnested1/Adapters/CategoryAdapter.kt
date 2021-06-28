@@ -22,12 +22,12 @@ class CategoryAdapter(val context: Context,
         init {
             img_poster =itemview.findViewById(R.id.img_poster)
             nombre = itemview.findViewById(R.id.txt_nombre)
-            //Modificadores pos valores internos
+            //Modificadores valores internos
 //            img_poster.layoutParams.width = 200
 //            img_poster.requestLayout()
 //            card.layoutParams.width = 250
 //            card.layoutParams.height = 300
-//            card.setBackgroundColor(0xFFF50057.toInt()) Buscar la pagina para convertir colores a Int
+//            card.setBackgroundColor(0xFFF50057.toInt())
 //            card.requestLayout()
 //            card.isFocusable = true
 //            card.isFocusableInTouchMode = true
